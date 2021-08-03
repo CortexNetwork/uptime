@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 1055,
-    "timeWeek": 1055,
-    "timeMonth": 1055,
-    "timeYear": 1055,
+    "time": 1042,
+    "timeDay": 1042,
+    "timeWeek": 1042,
+    "timeMonth": 1042,
+    "timeYear": 1042,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 944,
-    "timeWeek": 944,
-    "timeMonth": 944,
-    "timeYear": 944,
+    "time": 912,
+    "timeDay": 912,
+    "timeWeek": 912,
+    "timeMonth": 912,
+    "timeYear": 912,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Radio",
-    "url": "https://radio.mountathos.info/live",
-    "icon": "https://favicons.githubusercontent.com/radio.mountathos.info",
-    "slug": "radio",
-    "status": "down",
-    "uptime": "33.73%",
-    "uptimeDay": "33.73%",
-    "uptimeWeek": "33.73%",
-    "uptimeMonth": "33.73%",
-    "uptimeYear": "33.73%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-08-03": 32
-    }
   }
 ]
