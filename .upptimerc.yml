@@ -7,21 +7,19 @@ sites:
     url: https://marturieathonita.ro
   - name: athonitetestimony.com
     url: https://athonitetestimony.com
-  - name: sotiras.org
-    url: https://sotiras.org
+  - name: cdn.marturieathonita.ro
+    url: https://cdn.marturieathonita.ro
     expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+      - 200    
 
 status-website:
-  theme: dark
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.marturieathonita.ro
   # baseUrl: /your-repo-name
   logoUrl: https://marturieathonita.ro/wp-content/uploads/2021/07/logo_negru.png
-  name: status.marturieathonita.ro
+  name: status
   introTitle: "Service Status"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
