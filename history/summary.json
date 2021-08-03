@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1042,
-    "timeWeek": 1042,
-    "timeMonth": 1042,
-    "timeYear": 1042,
+    "time": 1058,
+    "timeDay": 1058,
+    "timeWeek": 1058,
+    "timeMonth": 1058,
+    "timeYear": 1058,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 798,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Radio Marturie Athonita",
+    "name": "Radio",
     "url": "https://radio.mountathos.info/live",
     "icon": "https://favicons.githubusercontent.com/radio.mountathos.info",
-    "slug": "radio-marturie-athonita",
+    "slug": "radio",
     "status": "down",
-    "uptime": "23.89%",
-    "uptimeDay": "23.89%",
-    "uptimeWeek": "23.89%",
-    "uptimeMonth": "23.89%",
-    "uptimeYear": "23.89%",
+    "uptime": "93.71%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "93.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-03": 5
+      "2021-08-03": 0
     }
   }
 ]
