@@ -7,7 +7,7 @@ sites:
     url: https://marturieathonita.ro
   - name: AthoniteTestimony.com
     url: https://athonitetestimony.com
-  - name: Radio Marturie Athonita
+  - name: Radio
     url: https://radio.mountathos.info/live
     expectedStatusCodes:
       - 200
