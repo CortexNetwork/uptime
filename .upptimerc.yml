@@ -8,9 +8,13 @@ sites:
   - name: cdn.marturieathonita.ro
     url: https://cdn.marturieathonita.ro
     expectedStatusCodes:
-      - 200    
+      - 200        
+  - name: athosvestments.com
+    url: https://athosvestments.com
   - name: athonitetestimony.com
     url: https://athonitetestimony.com
+  - name: orthodoxheaven.com
+    url: https://orthodoxheaven.com 
   - name: video-stream
     check: "tcp-ping"
     url: $LVS
