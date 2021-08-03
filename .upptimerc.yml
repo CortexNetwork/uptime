@@ -15,6 +15,7 @@ sites:
       - 404
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.marturieathonita.ro
@@ -31,9 +32,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-status-website:
-  theme: dark
 
 i18n:
   footer: © 2012 - 2021 Chilia Buna-Vestire 
