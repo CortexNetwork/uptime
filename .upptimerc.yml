@@ -5,13 +5,17 @@ repo: uptime # The name of this repository
 sites:
   - name: marturieathonita.ro
     url: https://marturieathonita.ro
-  - name: athonitetestimony.com
-    url: https://athonitetestimony.com
   - name: cdn.marturieathonita.ro
     url: https://cdn.marturieathonita.ro
     expectedStatusCodes:
       - 200    
-
+  - name: athonitetestimony.com
+    url: https://athonitetestimony.com
+  - name: video-stream
+    check: "tcp-ping"
+    url: $LVS
+    port: $LVS_PORT
+   
 status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
