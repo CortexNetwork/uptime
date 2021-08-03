@@ -15,6 +15,10 @@ sites:
     check: "tcp-ping"
     url: $LVS
     port: $LVS_PORT
+  - name: radio-stream
+    check: "tcp-ping"
+    url: $STREAM_URL
+    port: $STREAM_PORT   
    
 status-website:
   theme: light
