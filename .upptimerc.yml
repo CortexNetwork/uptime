@@ -9,6 +9,8 @@ sites:
     url: https://athonitetestimony.com
   - name: Radio Marturie Athonita
     url: https://radio.mountathos.info/live
+    expectedStatusCodes:
+      - 200
 
 
 status-website:
@@ -16,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.marturieathonita.ro
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://marturieathonita.ro/wp-content/uploads/2021/07/logo_negru.png
   name: Upptime
   introTitle: "Service Status"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
