@@ -15,10 +15,6 @@ sites:
     url: https://athonitetestimony.com
   - name: orthodoxheaven.com
     url: https://orthodoxheaven.com 
-  - name: video-stream
-    check: "tcp-ping"
-    url: $LVS
-    port: $LVS_PORT
   - name: radio-stream
     check: "tcp-ping"
     url: $STREAM_URL
