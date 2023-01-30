@@ -4,7 +4,7 @@
     "url": "https://marturieathonita.ro",
     "icon": "https://icons.duckduckgo.com/ip3/marturieathonita.ro.ico",
     "slug": "marturieathonita-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "97.62%",
     "uptimeWeek": "99.66%",
@@ -43,7 +43,7 @@
     "timeMonth": 221,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-01-30": 1157,
+      "2023-01-30": 1167,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
