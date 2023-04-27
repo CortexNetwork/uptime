@@ -34,7 +34,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.marturieathonita.ro.ico",
     "slug": "cdn-marturieathonita-ro",
     "status": "down",
-    "uptime": "24.24%",
+    "uptime": "24.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -45,7 +45,8 @@
     "timeMonth": 389,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-04-26": 1431,
+      "2023-04-27": 81,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -408,8 +409,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   },
   {
@@ -419,9 +419,9 @@
     "slug": "athosvestments-com",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
     "time": 767,
     "timeDay": 664,
@@ -429,7 +429,6 @@
     "timeMonth": 1574,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-04-26": 9,
       "2023-04-13": 95,
       "2023-02-13": 30,
       "2022-10-29": 426,
