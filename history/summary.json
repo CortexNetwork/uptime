@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1269,
-    "timeDay": 1938,
-    "timeWeek": 1355,
-    "timeMonth": 1296,
+    "timeDay": 1231,
+    "timeWeek": 1328,
+    "timeMonth": 1292,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2023-09-26": 98
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.marturieathonita.ro.ico",
     "slug": "cdn-marturieathonita-ro",
     "status": "down",
-    "uptime": "16.59%",
+    "uptime": "16.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 241,
-    "timeDay": 385,
-    "timeWeek": 301,
-    "timeMonth": 291,
-    "timeYear": 243,
+    "timeDay": 257,
+    "timeWeek": 298,
+    "timeMonth": 280,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-02-12": 69,
+      "2024-02-13": 69,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -399,8 +400,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 833,
-    "timeDay": 982,
-    "timeWeek": 864,
-    "timeMonth": 829,
+    "timeDay": 764,
+    "timeWeek": 829,
+    "timeMonth": 832,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2023-07-25": 245,
@@ -426,8 +426,7 @@
       "2023-05-25": 18,
       "2023-05-24": 33,
       "2023-05-20": 16,
-      "2023-04-13": 95,
-      "2023-02-13": 30
+      "2023-04-13": 95
     }
   },
   {
@@ -441,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1204,
-    "timeDay": 1021,
-    "timeWeek": 1007,
-    "timeMonth": 922,
-    "timeYear": 1203,
+    "time": 1205,
+    "timeDay": 1229,
+    "timeWeek": 995,
+    "timeMonth": 936,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2023-08-29": 67,
       "2023-08-28": 2,
@@ -454,8 +453,7 @@
       "2023-07-13": 12,
       "2023-05-31": 121,
       "2023-05-24": 15,
-      "2023-04-13": 93,
-      "2023-02-13": 29
+      "2023-04-13": 93
     }
   },
   {
@@ -464,15 +462,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/orthodoxheaven.com.ico",
     "slug": "orthodoxheaven-com",
     "status": "up",
-    "uptime": "85.34%",
+    "uptime": "85.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.25%",
-    "time": 691,
-    "timeDay": 632,
-    "timeWeek": 868,
-    "timeMonth": 848,
+    "time": 690,
+    "timeDay": 461,
+    "timeWeek": 732,
+    "timeMonth": 850,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2023-11-10": 36,
@@ -627,9 +625,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 158,
-    "timeWeek": 130,
-    "timeMonth": 111,
+    "timeDay": 110,
+    "timeWeek": 123,
+    "timeMonth": 112,
     "timeYear": 184,
     "dailyMinutesDown": {}
   }
