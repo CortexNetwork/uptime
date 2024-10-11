@@ -34,7 +34,8 @@
     "timeMonth": 319,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-10-10": 1434,
+      "2024-10-11": 54,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -397,8 +398,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/athosvestments.com.ico",
     "slug": "athosvestments-com",
     "status": "down",
-    "uptime": "90.87%",
+    "uptime": "90.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.33%",
+    "uptimeYear": "71.32%",
     "time": 695,
     "timeDay": 86,
     "timeWeek": 109,
     "timeMonth": 108,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-10-10": 1434,
+      "2024-10-11": 54,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -548,19 +549,20 @@
     "url": "https://orthodoxheaven.com",
     "icon": "https://icons.duckduckgo.com/ip3/orthodoxheaven.com.ico",
     "slug": "orthodoxheaven-com",
-    "status": "down",
+    "status": "up",
     "uptime": "88.36%",
-    "uptimeDay": "68.95%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "64.79%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "93.21%",
-    "time": 1136,
-    "timeDay": 9790,
-    "timeWeek": 8555,
-    "timeMonth": 4665,
-    "timeYear": 1326,
+    "time": 1144,
+    "timeDay": 9331,
+    "timeWeek": 8389,
+    "timeMonth": 4663,
+    "timeYear": 1335,
     "dailyMinutesDown": {
-      "2024-10-10": 447,
+      "2024-10-11": 54,
+      "2024-10-10": 453,
       "2023-11-10": 36,
       "2023-11-04": 628,
       "2023-11-03": 1440,
@@ -584,8 +586,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   },
   {
