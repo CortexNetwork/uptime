@@ -4,19 +4,19 @@
     "url": "https://marturieathonita.ro",
     "icon": "https://icons.duckduckgo.com/ip3/marturieathonita.ro.ico",
     "slug": "marturieathonita-ro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1287,
-    "timeDay": 3037,
-    "timeWeek": 1680,
-    "timeMonth": 1392,
+    "time": 1286,
+    "timeDay": 2360,
+    "timeWeek": 1605,
+    "timeMonth": 1381,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2024-12-02": 2
+      "2024-12-02": 9
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 225,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-12-02": 1250,
+      "2024-12-02": 1259,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 106,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-12-02": 1250,
+      "2024-12-02": 1259,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -615,7 +615,7 @@
     "timeMonth": 0,
     "timeYear": 1593,
     "dailyMinutesDown": {
-      "2024-12-02": 1251,
+      "2024-12-02": 1259,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
