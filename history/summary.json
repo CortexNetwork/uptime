@@ -34,7 +34,7 @@
     "timeMonth": 275,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-02-28": 582,
+      "2025-02-28": 600,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -406,19 +406,19 @@
     "url": "https://athosvestments.com",
     "icon": "https://icons.duckduckgo.com/ip3/athosvestments.com.ico",
     "slug": "athosvestments-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "26.10%",
-    "uptimeWeek": "7.71%",
-    "uptimeMonth": "16.61%",
-    "uptimeYear": "93.05%",
-    "time": 508,
-    "timeDay": 616,
-    "timeWeek": 577,
-    "timeMonth": 537,
+    "uptimeDay": "27.26%",
+    "uptimeWeek": "7.88%",
+    "uptimeMonth": "16.67%",
+    "uptimeYear": "93.06%",
+    "time": 507,
+    "timeDay": 598,
+    "timeWeek": 570,
+    "timeMonth": 536,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-02-28": 405,
+      "2025-02-28": 407,
       "2025-02-27": 1242,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -445,7 +445,7 @@
       "2025-02-04": 1150,
       "2025-02-03": 1071,
       "2025-02-02": 1216,
-      "2025-02-01": 683
+      "2025-02-01": 656
     }
   },
   {
@@ -483,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2025-02-28": 582,
+      "2025-02-28": 601,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
