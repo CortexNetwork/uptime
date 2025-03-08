@@ -34,7 +34,8 @@
     "timeMonth": 294,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-03-07": 1431,
+      "2025-03-08": 0,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -397,8 +398,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -406,25 +406,26 @@
     "url": "https://athosvestments.com",
     "icon": "https://icons.duckduckgo.com/ip3/athosvestments.com.ico",
     "slug": "athosvestments-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "30.97%",
-    "uptimeWeek": "30.88%",
-    "uptimeMonth": "84.09%",
-    "uptimeYear": "98.67%",
-    "time": 543,
-    "timeDay": 716,
+    "uptimeDay": "31.48%",
+    "uptimeWeek": "31.41%",
+    "uptimeMonth": "84.22%",
+    "uptimeYear": "98.68%",
+    "time": 542,
+    "timeDay": 703,
     "timeWeek": 618,
-    "timeMonth": 589,
+    "timeMonth": 587,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-03-07": 986,
+      "2025-03-08": 0,
+      "2025-03-07": 988,
       "2025-03-06": 1090,
       "2025-03-05": 1097,
       "2025-03-04": 960,
       "2025-03-03": 948,
       "2025-03-02": 1018,
-      "2025-03-01": 866
+      "2025-03-01": 810
     }
   },
   {
@@ -451,7 +452,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/orthodoxheaven.com.ico",
     "slug": "orthodoxheaven-com",
     "status": "down",
-    "uptime": "78.67%",
+    "uptime": "78.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -462,7 +463,8 @@
     "timeMonth": 0,
     "timeYear": 1800,
     "dailyMinutesDown": {
-      "2025-03-07": 1431,
+      "2025-03-08": 0,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
