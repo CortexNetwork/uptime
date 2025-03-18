@@ -34,7 +34,7 @@
     "timeMonth": 281,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-03-18": 438,
+      "2025-03-18": 452,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -406,19 +406,19 @@
     "url": "https://athosvestments.com",
     "icon": "https://icons.duckduckgo.com/ip3/athosvestments.com.ico",
     "slug": "athosvestments-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "20.98%",
-    "uptimeWeek": "20.97%",
-    "uptimeMonth": "78.11%",
+    "uptimeDay": "21.85%",
+    "uptimeWeek": "21.05%",
+    "uptimeMonth": "78.16%",
     "uptimeYear": "98.18%",
-    "time": 551,
-    "timeDay": 598,
+    "time": 550,
+    "timeDay": 583,
     "timeWeek": 591,
     "timeMonth": 601,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-03-18": 367,
+      "2025-03-18": 369,
       "2025-03-17": 1145,
       "2025-03-16": 1012,
       "2025-03-15": 1044,
@@ -427,7 +427,7 @@
       "2025-03-12": 989,
       "2025-03-11": 995,
       "2025-03-10": 1043,
-      "2025-03-09": 235
+      "2025-03-09": 212
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 1833,
     "dailyMinutesDown": {
-      "2025-03-18": 438,
+      "2025-03-18": 452,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
