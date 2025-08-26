@@ -34,7 +34,7 @@
     "timeMonth": 280,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-08-26": 467,
+      "2025-08-26": 474,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 148,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-08-26": 467,
+      "2025-08-26": 474,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -492,19 +492,19 @@
     "url": "https://athonitetestimony.com",
     "icon": "https://icons.duckduckgo.com/ip3/athonitetestimony.com.ico",
     "slug": "athonitetestimony-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 830,
-    "timeWeek": 1237,
-    "timeMonth": 1087,
-    "timeYear": 1025,
+    "time": 1039,
+    "timeDay": 860,
+    "timeWeek": 1194,
+    "timeMonth": 1081,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-08-26": 2
+      "2025-08-26": 8
     }
   },
   {
@@ -524,7 +524,7 @@
     "timeMonth": 19450,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2025-08-26": 467,
+      "2025-08-26": 474,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
