@@ -4,19 +4,19 @@
     "url": "https://marturieathonita.ro",
     "icon": "https://icons.duckduckgo.com/ip3/marturieathonita.ro.ico",
     "slug": "marturieathonita-ro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1277,
-    "timeDay": 1032,
-    "timeWeek": 1193,
-    "timeMonth": 1230,
+    "timeDay": 1038,
+    "timeWeek": 1174,
+    "timeMonth": 1224,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2025-08-26": 2
+      "2025-08-26": 14
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 280,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-08-26": 275,
+      "2025-08-26": 289,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 148,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-08-26": 275,
+      "2025-08-26": 289,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -517,14 +517,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.43%",
+    "uptimeYear": "13.42%",
     "time": 2136,
     "timeDay": 0,
     "timeWeek": 19450,
     "timeMonth": 19450,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2025-08-26": 275,
+      "2025-08-26": 289,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
